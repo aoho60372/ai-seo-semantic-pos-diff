@@ -1,0 +1,3 @@
+interface:
+  display_name: "Sposdiff"
+  short_description: "Analyze separate Google and Yandex position exports"
