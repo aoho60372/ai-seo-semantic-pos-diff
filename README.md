@@ -42,14 +42,14 @@ semantic-pos-diff/
 - Python 3.11 или новее;
 - для быстрой обработки больших файлов — NVIDIA GPU с CUDA;
 - свободное место для модели, Python-зависимостей и временных embeddings;
-- доступ к DeepSeek нужен только для финального текста в Hermes.
+- доступ к DeepSeek (или другой модели) нужен только для финального текста в Hermes.
 
 ## Установка
 
 Клонируйте репозиторий и перейдите в его папку:
 
 ```powershell
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ> semantic-pos-diff
+git clone https://github.com/aoho60372/ai-seo-semantic-pos-diff semantic-pos-diff
 cd semantic-pos-diff
 ```
 
